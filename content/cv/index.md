@@ -2,6 +2,7 @@
 date = '2025-03-28T22:39:13-04:00'
 draft = true
 title = 'Chad S. Lauritsen - Resume'
+category = 'CV'
 +++
 
 216-849-5945 | [planetlauritsen.com](https://planetlauritsen.com)

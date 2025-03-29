@@ -1,4 +1,65 @@
-baseURL = 'https://planetlauritsen.com/'
+baseURL = 'https://planetlauritsen.com'
 languageCode = 'en-us'
 title = 'Planet Lauritsen'
 theme = 'ananke'
+#theme = 'hugo-noir'
+site_logo = 'static/cleveland-hero.jpg'
+
+# URL handling
+relativeURLs = true
+canonifyURLs = true
+
+# Taxonomy configuration
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[params]
+name = "Your Name"
+location = "City, Country"
+description = "Your bio goes here..."
+profile_image = "/images/profile.jpg"
+
+
+[params.ananke.social.share]
+networks = [
+    "email",
+    "facebook",
+    "bluesky",
+    "linkedin"
+]
+
+[params.ananke.social.follow]
+networks = [
+    "linkedin",
+    "github"
+]
+
+[params.ananke.social.facebook]
+username = "cslauritsen"
+# profilelink = "https://www.facebook.com/patrick.kollitsch"
+
+[params.ananke.social.linkedin]
+username = "cslauritsen"
+
+
+[params.ananke.social.github]
+username = "cslauritsen"
+
+
+
+[menu]
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "CV"
+url = "/cv/"
+weight = 2
+
+[[menu.main]]
+name = "Blog"
+url = "/posts/"
+weight = 3

@@ -2,9 +2,9 @@
 date = '2025-03-28T20:52:09-04:00'
 draft = true
 title = 'Raspberry Pi Baremetal Cluster'
+description = "Because I wanted to have a cluster with more than one node"
+featured_image = 'pods.png'
 +++
-
-# A Kubernetes Cluster on Raspberry Pi
 
 After hearing [Dashaun Carter](https://dashaun.com) talk about his Kubernetes cluster on Raspberry Pi on
 [Spring Office Hours](https://spring-office-hours.transistor.fm/episodes)
