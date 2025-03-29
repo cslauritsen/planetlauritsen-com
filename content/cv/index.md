@@ -1,10 +1,8 @@
 +++
-date = '2025-03-28T22:39:13-04:00'
-draft = true
-title = 'Chad S. Lauritsen - Resume'
-category = 'CV'
+date = '2025-03-29T00:33:51-04:00'
+draft = false
+title = 'Chad S. Lauritsen - CV'
 +++
-
 216-849-5945 | [planetlauritsen.com](https://planetlauritsen.com)
 
 ---
@@ -13,12 +11,12 @@ category = 'CV'
 Senior Developer/Architect with over 20 years of experience in designing, developing, and deploying enterprise applications, including architecting software delivery pipelines to deploy 5000 Kubernetes clusters.
 
 ## Key Skills
- * Cloud Platforms: AWS, GCP, Azure
- * Containerization: Kubernetes, Docker, Buildpacks
- * Programming Languages: Java, Kotlin, Python, Typescript, Go
- * DevOps Tools: GitHub Actions, Helm, Terraform
- * Architecture: Microservices, Serverless
- * Other: CI/CD, Agile methodologies, API development
+* Cloud Platforms: AWS, GCP, Azure
+* Containerization: Kubernetes, Docker, Buildpacks
+* Programming Languages: Java, Kotlin, Python, Typescript, Go
+* DevOps Tools: GitHub Actions, Helm, Terraform
+* Architecture: Microservices, Serverless
+* Other: CI/CD, Agile methodologies, API development
 
 --- 
 
@@ -45,7 +43,7 @@ Senior Developer/Architect with over 20 years of experience in designing, develo
 # Education & Certifications
 
 ## Bachelor of Arts, Music
-University of Nebraska, Lincoln	
+University of Nebraska, Lincoln
 
 ## Certified AWS Cloud Practitioner
 2025
@@ -53,7 +51,7 @@ University of Nebraska, Lincoln
 # Projects
 ## Payment Orchestration Services
 * Architected and supported a centralized service to coordinate card payment flows for all Sherwin-Williams applications.
-iLok Cloud GKE
+  iLok Cloud GKE
 * Streamlined CI/CD for a cloud-hosted licensing server in GKE, reducing image size 100x drastically improving cold startup times
 
 ## Next-Generation Point-of-Sale Platform
