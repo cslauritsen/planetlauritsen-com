@@ -1,0 +1,4 @@
+baseURL = 'https://planetlauritsen.com/'
+languageCode = 'en-us'
+title = 'Planet Lauritsen'
+theme = 'ananke'
