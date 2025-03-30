@@ -1,6 +1,6 @@
 +++
 date = '2025-03-30T16:25:03-04:00'
-draft = true
+draft = false
 title = 'Alien Intelligence'
 +++
 
